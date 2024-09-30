@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\dbmapper\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\dbmapper\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\migrations\\20240925172016_dbv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\migrations\\20240925172016_dbv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\migrations\\20240925172743_dbv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\migrations\\20240925172743_dbv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|c:\\users\\win\\desktop\\assignmentapp\\assignmentapp\\assignmentapp\\migrations\\20240925171638_dbv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D993FA2C-6A77-421F-95F4-A6796D693247}|AssignmentApp\\AssignmentApp.csproj|solutionrelative:assignmentapp\\migrations\\20240925171638_dbv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "AssignmentApp\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:41:35.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "AssignmentApp\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:35:15.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "AssignmentApp\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:37:57.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240925172016_DBV2.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Migrations\\20240925172016_DBV2.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Migrations\\20240925172016_DBV2.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Migrations\\20240925172016_DBV2.cs",
+              "RelativeToolTip": "AssignmentApp\\Migrations\\20240925172016_DBV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:20:16.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Program.cs",
+              "RelativeToolTip": "AssignmentApp\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:26:45.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Models\\Product.cs",
+              "RelativeToolTip": "AssignmentApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:16:56.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AssignmentApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:22:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\DBMapper\\ProductContext.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\DBMapper\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\DBMapper\\ProductContext.cs",
+              "RelativeToolTip": "AssignmentApp\\DBMapper\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:24:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "AssignmentApp\\Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:18:25.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240925172743_DBV3.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Migrations\\20240925172743_DBV3.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Migrations\\20240925172743_DBV3.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Migrations\\20240925172743_DBV3.cs",
+              "RelativeToolTip": "AssignmentApp\\Migrations\\20240925172743_DBV3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:27:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "AssignmentApp\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:53:07.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240925171638_DBV1.cs",
+              "DocumentMoniker": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Migrations\\20240925171638_DBV1.cs",
+              "RelativeDocumentMoniker": "AssignmentApp\\Migrations\\20240925171638_DBV1.cs",
+              "ToolTip": "C:\\Users\\win\\Desktop\\AssignmentApp\\AssignmentApp\\AssignmentApp\\Migrations\\20240925171638_DBV1.cs",
+              "RelativeToolTip": "AssignmentApp\\Migrations\\20240925171638_DBV1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:16:38.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
